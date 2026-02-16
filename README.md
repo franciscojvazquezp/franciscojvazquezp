@@ -21,5 +21,5 @@ This GitHub repository showcases a variety of projects that demonstrate my skill
 
 # Feel free to contact me
 www.linkedin.com/in/franciscojvazquezp \
-franciscojvazquezp@outlook.es \
+franciscojvazquezp@outlook.es <br>
 https://github.com/franciscojvazquezp
